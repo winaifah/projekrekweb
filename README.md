@@ -15,6 +15,7 @@ Proyek ini merupakan aplikasi web dinamis untuk manajemen data mahasiswa. Aplika
 
 - **[Laravel](https://laravel.com/)**: Framework PHP untuk back-end, termasuk pengelolaan logika bisnis dan API.
 - **[Vue.js](https://vuejs.org/)**: Framework JavaScript untuk membangun antarmuka pengguna yang interaktif.
+- **[Inertia.js](https://inertiajs.com/)**: Library yang menghubungkan front-end Vue.js dengan back-end Laravel tanpa API REST.
 - **[Tailwind CSS](https://tailwindcss.com/)**: Framework CSS untuk desain yang cepat dan konsisten.
 - **[Redis](https://redis.io/)**: Database in-memory yang digunakan untuk caching.
 
